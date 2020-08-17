@@ -1,6 +1,6 @@
 # learn-host-a-web-app-with-azure-app-service
 
-https://docs.microsoft.com/ja-jp/learn/modules/publish-azure-web-app-with-visual-studio/
+https://docs.microsoft.com/ja-jp/learn/modules/host-a-web-app-with-azure-app-service/
 
 ## MVC アプリ雛形作成
 
